@@ -121,9 +121,10 @@ header > div{
  grid-column: 1/1.5;
  font-size:30pt;
  margin-right:30px;
+ margin-top: 35px;
 }
 .header button{
-	width: 50%;
+	width: 80%;
 	height: 10%;
 }
 .header button a{
